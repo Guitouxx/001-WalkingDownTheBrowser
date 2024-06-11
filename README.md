@@ -1,4 +1,4 @@
-# 001 - Walking down the browser
+# 001 - Threejs Multibrowser demo
 
 ![Demo Screenshot](https://github.com/Guitouxx/001-WalkingDownTheBrowser/blob/main/static/screenshot.jpg?raw=true)
 
