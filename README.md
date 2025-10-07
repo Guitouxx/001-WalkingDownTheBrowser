@@ -1,6 +1,6 @@
 # 001 - Threejs Multibrowser demo
 
-### [Live Demo](https://playgl-001-walking-down-the-browser.vercel.app)
+### [Live Demo](https://playgl-001-walking-down-the-browser.netlify.app)
 
 ![Demo Screenshot](https://github.com/Guitouxx/001-WalkingDownTheBrowser/blob/main/static/screenshot.jpg?raw=true)
 
